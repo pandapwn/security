@@ -1,0 +1,17 @@
+{
+    "name": "pandapwn/security",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pandapwn\\Security\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pandapwn",
+            "email": "147405665+pandapwn@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
